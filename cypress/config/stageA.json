@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://stage1.bloomex.com.au/",
+    "env": {
+        "name": "Test name"
+    }
+}
